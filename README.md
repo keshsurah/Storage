@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/keshsurah/Storage/tree/master/0155-min-stack) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/keshsurah/Storage/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/keshsurah/Storage/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
