@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/keshsurah/Storage/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keshsurah/Storage/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keshsurah/Storage/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshsurah/Storage/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
@@ -110,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/keshsurah/Storage/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/keshsurah/Storage/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/keshsurah/Storage/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/keshsurah/Storage/tree/master/1903-largest-odd-number-in-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/keshsurah/Storage/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/keshsurah/Storage/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Tree
 |  |
@@ -158,4 +161,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/keshsurah/Storage/tree/master/1903-largest-odd-number-in-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/keshsurah/Storage/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
