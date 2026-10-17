@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keshsurah/Storage/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/keshsurah/Storage/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/keshsurah/Storage/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/keshsurah/Storage/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/keshsurah/Storage/tree/master/0074-search-a-2d-matrix) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/keshsurah/Storage/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/keshsurah/Storage/tree/master/0074-search-a-2d-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/keshsurah/Storage/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keshsurah/Storage/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Linked List
 |  |
