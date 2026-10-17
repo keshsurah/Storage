@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/keshsurah/Storage/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/keshsurah/Storage/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshsurah/Storage/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/keshsurah/Storage/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/keshsurah/Storage/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/keshsurah/Storage/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/keshsurah/Storage/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/keshsurah/Storage/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/keshsurah/Storage/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/keshsurah/Storage/tree/master/1903-largest-odd-number-in-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/keshsurah/Storage/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/keshsurah/Storage/tree/master/1903-largest-odd-number-in-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/keshsurah/Storage/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
