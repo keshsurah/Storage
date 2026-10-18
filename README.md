@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/keshsurah/Storage/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/keshsurah/Storage/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/keshsurah/Storage/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/keshsurah/Storage/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/keshsurah/Storage/tree/master/0412-fizz-buzz) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/keshsurah/Storage/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/keshsurah/Storage/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/keshsurah/Storage/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/keshsurah/Storage/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/keshsurah/Storage/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
