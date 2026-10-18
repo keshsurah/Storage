@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/keshsurah/Storage/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/keshsurah/Storage/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/keshsurah/Storage/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/keshsurah/Storage/tree/master/0412-fizz-buzz) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/keshsurah/Storage/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/keshsurah/Storage/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/keshsurah/Storage/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/keshsurah/Storage/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/keshsurah/Storage/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/keshsurah/Storage/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/keshsurah/Storage/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/keshsurah/Storage/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/keshsurah/Storage/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/keshsurah/Storage/tree/master/0412-fizz-buzz) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/keshsurah/Storage/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/keshsurah/Storage/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/keshsurah/Storage/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
