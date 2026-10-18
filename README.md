@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/keshsurah/Storage/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keshsurah/Storage/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
+| [0287-find-the-duplicate-number](https://github.com/keshsurah/Storage/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keshsurah/Storage/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1672-richest-customer-wealth](https://github.com/keshsurah/Storage/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/keshsurah/Storage/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/keshsurah/Storage/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/keshsurah/Storage/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/keshsurah/Storage/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/keshsurah/Storage/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/keshsurah/Storage/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/keshsurah/Storage/tree/master/0844-backspace-string-compare) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshsurah/Storage/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/keshsurah/Storage/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/keshsurah/Storage/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keshsurah/Storage/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
@@ -189,4 +192,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/keshsurah/Storage/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/keshsurah/Storage/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/keshsurah/Storage/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
