@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshsurah/Storage/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/keshsurah/Storage/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/keshsurah/Storage/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/keshsurah/Storage/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keshsurah/Storage/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/keshsurah/Storage/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/keshsurah/Storage/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/keshsurah/Storage/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/keshsurah/Storage/tree/master/0412-fizz-buzz) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/keshsurah/Storage/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/keshsurah/Storage/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/keshsurah/Storage/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
