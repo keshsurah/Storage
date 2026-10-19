@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/keshsurah/Storage/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/keshsurah/Storage/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/keshsurah/Storage/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/keshsurah/Storage/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/keshsurah/Storage/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/keshsurah/Storage/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/keshsurah/Storage/tree/master/0066-plus-one) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keshsurah/Storage/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/keshsurah/Storage/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keshsurah/Storage/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0567-permutation-in-string](https://github.com/keshsurah/Storage/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/keshsurah/Storage/tree/master/2965-find-missing-and-repeated-values) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/keshsurah/Storage/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/keshsurah/Storage/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/keshsurah/Storage/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/keshsurah/Storage/tree/master/1672-richest-customer-wealth) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/keshsurah/Storage/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/keshsurah/Storage/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/keshsurah/Storage/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/keshsurah/Storage/tree/master/0090-subsets-ii) |
@@ -281,5 +285,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/keshsurah/Storage/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/keshsurah/Storage/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/keshsurah/Storage/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
