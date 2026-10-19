@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/keshsurah/Storage/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/keshsurah/Storage/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/keshsurah/Storage/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2596-check-knight-tour-configuration](https://github.com/keshsurah/Storage/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/keshsurah/Storage/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshsurah/Storage/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/keshsurah/Storage/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/keshsurah/Storage/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/keshsurah/Storage/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/keshsurah/Storage/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/keshsurah/Storage/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshsurah/Storage/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/keshsurah/Storage/tree/master/0662-maximum-width-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/keshsurah/Storage/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshsurah/Storage/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/keshsurah/Storage/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/keshsurah/Storage/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/keshsurah/Storage/tree/master/1672-richest-customer-wealth) |
+| [2596-check-knight-tour-configuration](https://github.com/keshsurah/Storage/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/keshsurah/Storage/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshsurah/Storage/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keshsurah/Storage/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/keshsurah/Storage/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/keshsurah/Storage/tree/master/0662-maximum-width-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/keshsurah/Storage/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
