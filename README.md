@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keshsurah/Storage/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/keshsurah/Storage/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/keshsurah/Storage/tree/master/1672-richest-customer-wealth) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/keshsurah/Storage/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/keshsurah/Storage/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshsurah/Storage/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/keshsurah/Storage/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/keshsurah/Storage/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keshsurah/Storage/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/keshsurah/Storage/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/keshsurah/Storage/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/keshsurah/Storage/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keshsurah/Storage/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/keshsurah/Storage/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
