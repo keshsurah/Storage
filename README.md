@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/keshsurah/Storage/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/keshsurah/Storage/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/keshsurah/Storage/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/keshsurah/Storage/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keshsurah/Storage/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshsurah/Storage/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshsurah/Storage/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/keshsurah/Storage/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/keshsurah/Storage/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/keshsurah/Storage/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/keshsurah/Storage/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/keshsurah/Storage/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshsurah/Storage/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshsurah/Storage/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/keshsurah/Storage/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/keshsurah/Storage/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/keshsurah/Storage/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshsurah/Storage/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Range Minimum/Maximum Query
 |  |
