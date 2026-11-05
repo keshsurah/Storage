@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/keshsurah/Storage/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/keshsurah/Storage/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/keshsurah/Storage/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/keshsurah/Storage/tree/master/0636-exclusive-time-of-functions) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keshsurah/Storage/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshsurah/Storage/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/keshsurah/Storage/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/keshsurah/Storage/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/keshsurah/Storage/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/keshsurah/Storage/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/keshsurah/Storage/tree/master/0636-exclusive-time-of-functions) |
 | [0844-backspace-string-compare](https://github.com/keshsurah/Storage/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshsurah/Storage/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/keshsurah/Storage/tree/master/1910-remove-all-occurrences-of-a-substring) |
