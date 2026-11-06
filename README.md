@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshsurah/Storage/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/keshsurah/Storage/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2596-check-knight-tour-configuration](https://github.com/keshsurah/Storage/tree/master/2596-check-knight-tour-configuration) |
+| [2747-count-zero-request-servers](https://github.com/keshsurah/Storage/tree/master/2747-count-zero-request-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/keshsurah/Storage/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/keshsurah/Storage/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/keshsurah/Storage/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshsurah/Storage/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/keshsurah/Storage/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/keshsurah/Storage/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
 | ------- |
@@ -118,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/keshsurah/Storage/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/keshsurah/Storage/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshsurah/Storage/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2747-count-zero-request-servers](https://github.com/keshsurah/Storage/tree/master/2747-count-zero-request-servers) |
 | [2965-find-missing-and-repeated-values](https://github.com/keshsurah/Storage/tree/master/2965-find-missing-and-repeated-values) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/keshsurah/Storage/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/keshsurah/Storage/tree/master/0567-permutation-in-string) |
+| [2747-count-zero-request-servers](https://github.com/keshsurah/Storage/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/keshsurah/Storage/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
