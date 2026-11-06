@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshsurah/Storage/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/keshsurah/Storage/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/keshsurah/Storage/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshsurah/Storage/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/keshsurah/Storage/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2596-check-knight-tour-configuration](https://github.com/keshsurah/Storage/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/keshsurah/Storage/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshsurah/Storage/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshsurah/Storage/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshsurah/Storage/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/keshsurah/Storage/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/keshsurah/Storage/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/keshsurah/Storage/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/keshsurah/Storage/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshsurah/Storage/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/keshsurah/Storage/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2596-check-knight-tour-configuration](https://github.com/keshsurah/Storage/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/keshsurah/Storage/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshsurah/Storage/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting Sort
 |  |
 | ------- |
