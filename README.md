@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/keshsurah/Storage/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshsurah/Storage/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1882-process-tasks-using-servers](https://github.com/keshsurah/Storage/tree/master/1882-process-tasks-using-servers) |
+| [2073-time-needed-to-buy-tickets](https://github.com/keshsurah/Storage/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/keshsurah/Storage/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2596-check-knight-tour-configuration](https://github.com/keshsurah/Storage/tree/master/2596-check-knight-tour-configuration) |
 | [2747-count-zero-request-servers](https://github.com/keshsurah/Storage/tree/master/2747-count-zero-request-servers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/keshsurah/Storage/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshsurah/Storage/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/keshsurah/Storage/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/keshsurah/Storage/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/keshsurah/Storage/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/keshsurah/Storage/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshsurah/Storage/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/keshsurah/Storage/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting Sort
 |  |
 | ------- |
