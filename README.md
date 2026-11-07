@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keshsurah/Storage/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0204-count-primes](https://github.com/keshsurah/Storage/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/keshsurah/Storage/tree/master/0287-find-the-duplicate-number) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/keshsurah/Storage/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keshsurah/Storage/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/keshsurah/Storage/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/keshsurah/Storage/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/keshsurah/Storage/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/keshsurah/Storage/tree/master/1046-last-stone-weight) |
 | [1882-process-tasks-using-servers](https://github.com/keshsurah/Storage/tree/master/1882-process-tasks-using-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshsurah/Storage/tree/master/2812-find-the-safest-path-in-a-grid) |
